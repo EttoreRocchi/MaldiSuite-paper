@@ -78,7 +78,9 @@ Every randomised step uses a fixed seed (`SEED = 42`); subsample, split and init
 
 ## Citation
 
-Available soon.
+Code, aggregated results and locked environments: [doi:10.5281/zenodo.23345406](https://doi.org/10.5281/zenodo.23345406). This DOI resolves to the latest version; release v1.0.0 is [doi:10.5281/zenodo.23345407](https://doi.org/10.5281/zenodo.23345407).
+
+Paper: available soon.
 
 ## Licence
 
