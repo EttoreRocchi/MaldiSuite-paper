@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project
+.venv-*/
+output/
+01_preprocessing/figure1_panelA_preprocessing.pdf
+01_preprocessing/figure1_panelA_preprocessing.png
+02_batch_correction/cache/
+02_batch_correction/results/
+02_batch_correction/figures/
+02_batch_correction/logs/
+03_classification/.data_cache*/
+03_classification/results*/
+04_leakage_and_bin_width/cache/
+04_leakage_and_bin_width/results/
+04_leakage_and_bin_width/logs/

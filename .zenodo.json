@@ -1,0 +1,61 @@
+{
+  "title": "MaldiSuite-paper: analysis code for the MaldiSuite paper",
+  "description": "<p>Scripts, aggregated results and locked environments that produce the figures, tables and supplementary notes of the MaldiSuite paper: preprocessing of MALDI-TOF spectra, multi-site batch correction, deep-learning classification of antimicrobial resistance, and the train-test leakage and bin-width experiments on the DRIAMS cohort. The packages themselves live in their own repositories and on PyPI; the lock files pin the versions used for the paper (MaldiAMRKit 0.20.0, MaldiBatchKit 0.2.0, MaldiDeepKit 0.3.0). The DRIAMS spectra are not redistributed.</p><p>Funded by the European Union - NextGenerationEU, MUR PNRR Extended Partnership on Emerging Infectious Diseases (project PE00000007, INF-ACT).</p>",
+  "upload_type": "software",
+  "license": "mit",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Rocchi, Ettore",
+      "affiliation": "Department of Medical and Surgical Sciences, Alma Mater Studiorum, University of Bologna, and IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy",
+      "orcid": "0000-0002-7612-2819"
+    },
+    {
+      "name": "Sala, Claudia",
+      "affiliation": "Department of Medical and Surgical Sciences, Alma Mater Studiorum, University of Bologna, and IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy",
+      "orcid": "0000-0002-4889-1047"
+    },
+    {
+      "name": "Castellani, Gastone",
+      "affiliation": "Department of Medical and Surgical Sciences, Alma Mater Studiorum, University of Bologna, and IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy",
+      "orcid": "0000-0003-4892-925X"
+    }
+  ],
+  "keywords": [
+    "MALDI-TOF",
+    "antimicrobial resistance",
+    "batch effect correction",
+    "deep learning",
+    "mass spectrometry",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/EttoreRocchi/MaldiSuite",
+      "relation": "references",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/EttoreRocchi/MaldiAMRKit",
+      "relation": "references",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/EttoreRocchi/MaldiBatchKit",
+      "relation": "references",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/EttoreRocchi/MaldiDeepKit",
+      "relation": "references",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.1038/s41591-021-01619-9",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}
